@@ -1,6 +1,10 @@
 # Expense Tracking App Project Tree Structure
 
-
+## index.js
+  - ### App.js
+    - ### NewExpense.js
+      - ### ExpenseForm.js 
+    - ### Expenses.js
 
 
 
