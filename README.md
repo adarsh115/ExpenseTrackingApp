@@ -1,11 +1,18 @@
 # Expense Tracking App Project Tree Structure
 
-## index.js
-  - ### App.js
+## `index.js`
+  - ### `App.js`
     - ### NewExpense.js
       - ### ExpenseForm.js 
     - ### Expenses.js
-
+      - ### Filter.js
+      - ### ExpenseChart.js
+         - ### Chart.js
+            - ### ChartBar.js
+         
+      - ### ExpenseList.js
+         - ### ExpenseItems.js
+            - ### ExpenseDate.js
 
 
 # Getting Started with Create React App
