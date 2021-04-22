@@ -2,9 +2,9 @@
 
 ## `index.js`
   - ### `App.js`
-    - ### NewExpense.js
+    - ### `NewExpense.js`
       - ### ExpenseForm.js 
-    - ### Expenses.js
+    - ### `Expenses.js`
       - ### Filter.js
       - ### ExpenseChart.js
          - ### Chart.js
@@ -14,6 +14,7 @@
          - ### ExpenseItems.js
             - ### ExpenseDate.js
 
+## [Hosted App](https://friendly-goldstine-5ef492.netlify.app/)
 
 # Getting Started with Create React App
 
